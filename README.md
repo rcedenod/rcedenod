@@ -18,13 +18,13 @@ Trabajo en todo el stack — backend, frontend y despliegue — y me importa el 
 JavaScript · TypeScript · Node.js · Java · Python · SQL · C/C++
 
 **Frameworks y librerías**  
-React.js · React Native · Express · Nest.js · FastAPI · Spring Boot · Prisma · Tailwind
+React.js · Angular · Vue · React Native · Express · Nest.js · FastAPI · Spring Boot · Prisma · Tailwind · Swagger
 
 **Bases de datos**  
-PostgreSQL · MySQL · MongoDB
+PostgreSQL · MySQL · MongoDB · Redis
 
 **DevOps y despliegue**  
-Docker · Nginx · Linux · Vercel · Railway · Oracle Cloud · Cloudflare
+Git · Docker · Nginx · Linux · Vercel · Railway · Oracle Cloud · Cloudflare
 
 **Herramientas de IA que uso**  
 Claude · OpenAI Codex · Gemini · Stitch · Claude Design
