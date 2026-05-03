@@ -6,15 +6,11 @@ Egresado de la Universidad Rafael Urdaneta (URU), Maracaibo, Venezuela.
 Me apasiona la arquitectura de software, el diseño de sistemas y construir soluciones escalables y bien pensadas.  
 Trabajo en todo el stack — backend, frontend y despliegue — y me importa el rendimiento, el código limpio y hacer las cosas bien.
 
----
-
 ## Qué hago
 
 - **Backend** — APIs REST, sistemas en tiempo real (WebSockets, gRPC), autenticación, diseño de bases de datos
 - **Frontend** — Interfaces web y móviles con React y React Native
 - **Despliegue e infraestructura** — Servidores Linux, Docker, Nginx, PM2, plataformas cloud
-
----
 
 ## Stack tecnológico
 
@@ -33,7 +29,6 @@ Docker · Nginx · Linux · Vercel · Railway · Oracle Cloud · Cloudflare
 **Herramientas de IA que uso**  
 Claude · OpenAI Codex · Gemini
 
----
 
 ## Contacto
 
