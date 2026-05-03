@@ -18,7 +18,7 @@ Trabajo en todo el stack — backend, frontend y despliegue — y me importa el 
 JavaScript · TypeScript · Node.js · Java · Python · SQL · C/C++
 
 **Frameworks y librerías**  
-React · React Native · Spring Boot · FastAPI · Prisma
+React.js · React Native · Express · Nest.js · FastAPI · Spring Boot · Prisma · Tailwind
 
 **Bases de datos**  
 PostgreSQL · MySQL · MongoDB
@@ -27,10 +27,10 @@ PostgreSQL · MySQL · MongoDB
 Docker · Nginx · Linux · Vercel · Railway · Oracle Cloud · Cloudflare
 
 **Herramientas de IA que uso**  
-Claude · OpenAI Codex · Gemini
+Claude · OpenAI Codex · Gemini · Stitch · Claude Design
 
 
 ## Contacto
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-cedeno-8955b13a4)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rflalejandro2004@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/rafael-cedeno-8955b13a4)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge)](mailto:rflalejandro2004@gmail.com)
