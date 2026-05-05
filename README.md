@@ -1,6 +1,6 @@
 # Rafael Cedeño
 
-Ingeniero de Computación · Desarrollador Full-Stack · Amante de los sistemas bien diseñados
+Ingeniero de Computación · Desarrollador Full-Stack
 
 Egresado de la Universidad Rafael Urdaneta (URU), Maracaibo, Venezuela.  
 Me apasiona la arquitectura de software, el diseño de sistemas y construir soluciones escalables y bien pensadas.  
